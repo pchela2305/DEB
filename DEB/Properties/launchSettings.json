@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DEB": {
+      "commandName": "Project",
+      "commandLineArgs": "-dir=C:\\Users\\home\\Desktop\\deb -o=../d1.deb"
+    }
+  }
+}
